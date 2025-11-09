@@ -45,5 +45,7 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+  <key>NSCameraUsageDescription</key>
+  <string>The camera is used to capture a short video for NIN liveness verification.</string>
 </dict>
 </plist>
